@@ -26,9 +26,6 @@ A estrutura atual do projeto separa os principais elementos do jogo em classes p
   <img src="https://github.com/user-attachments/assets/91f467f0-afb2-481c-9389-d52bb5424a7a" width="45%" />
   <img src="https://github.com/user-attachments/assets/796ed3d0-179b-43a1-81ce-6f50a6bb7d38" width="45%" />
 </p>
-
-O projeto utiliza principalmente `Canvas`, `Graphics`, `BufferedImage` e `BufferStrategy` para a renderização. :contentReference[oaicite:1]{index=1}
-
 ## Estrutura
 
 ```text
